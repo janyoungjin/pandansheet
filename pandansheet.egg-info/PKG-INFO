@@ -1,3 +1,20 @@
+Metadata-Version: 2.1
+Name: pandansheet
+Version: 0.0.1
+Summary: Pandas와 Google sheet를 연동하는 모듈.(A module to integrate pandas and Google Sheets)
+Home-page: https://github.com/janyoungjin
+Author: J
+Author-email: jyoungjin0106@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: pandas>=1.0.0
+Requires-Dist: openpyxl>=3.0.0
+Requires-Dist: requests>=2.0.0
+Requires-Dist: numpy>=1.19.0
+
 # PandanSheet(Korean.ver)
 
 `PandanSheet`는 google sheeet의 내용을 읽는 패키지 입니다.
