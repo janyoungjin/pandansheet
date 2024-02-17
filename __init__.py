@@ -1,1 +1,2 @@
-__version__ = '0.0.1'
+import pandansheet 
+__version__ = '0.0.2'

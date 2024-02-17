@@ -51,6 +51,7 @@ print(ps.ReadSheet(url),header=2)
 <table>
 <tr><th>버전</th><th>내역</th></tr>
 <tr><td>0.0.1</td><td>ReadSheet 함수를 만들었습니다.</td></tr>
+<tr><td>0.0.2</td><td>프로젝트 링크 수정</td></tr>
 </table>
 
 # PandanSheet (English.ver)
@@ -106,4 +107,5 @@ Attempting to access a private sheet will result in an error. Please change the 
 <table>
 <tr><th>Version</th><th>Details</th></tr>
 <tr><td>0.0.1</td><td>Created the ReadSheet function.</td></tr>
+<tr><td>0.0.2</td><td>Update Project URL.</td></tr>
 </table>

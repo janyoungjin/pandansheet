@@ -5,13 +5,13 @@ with open("README.md", "r", encoding='utf-8') as fh:
 
 setuptools.setup(
     name="pandansheet",  # Replace with your own package name
-    version="0.0.1",
+    version="0.0.2",
     author="J",
     author_email="jyoungjin0106@gmail.com",
-    description="Pandas와 Google sheet를 연동하는 모듈.(A module to integrate pandas and Google Sheets)", 
+    description="Pandas와 Google sheet를 연동하는 패키지.(A package to integrate pandas and Google Sheets)", 
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/janyoungjin",  
+    url="https://github.com/janyoungjin/pandansheet",  
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
